@@ -16,3 +16,6 @@ gem "minitest"
 gem "simplecov"
 gem "rubocop"
 gem "reek"
+
+# SimpleCov
+gem 'simplecov', require: false, group: :test
